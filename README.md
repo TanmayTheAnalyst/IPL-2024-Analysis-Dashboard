@@ -13,5 +13,6 @@ This interactive dashboard provides a comprehensive analysis of the IPL 2024 sea
 - Here the 4 CSV files were provided namely dim_players,dim_match_summary, fact_batting_summary and fact_bowling_summary which contains information related to specific modules.
 - Data was properly studied,understood and was then extracted into Power Query thus completing extraction phase of ETL process.
 - Similarly all the required transformations,cleaning, sorting was done thus making unstructured data into structured format.
-- Data was then loaded into PowerBI Desktop and new tables such as Date table was created also additional table called Playoffs Appearances was created by extracting data available from Web from site sporting news India also from sportskeeda some information was acquired for competition purpose as an additional research.
+- Data was then loaded into PowerBI Desktop and new tables such as Date table was created also additional table called Playoffs Appearances was created by extracting data available from Web from site sporting news India also from sportskeeda some information was acquired for competition purpose as an additional research. Below Snippet shows ERD among different tables having one to many relationships with each other.
+  
 ![Screenshot 2024-04-27 211742](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/6b03650e-a96c-4e43-a2f6-f58d42c0727b)
