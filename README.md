@@ -22,5 +22,6 @@ This interactive dashboard provides a comprehensive analysis of the IPL 2024 sea
 
 So after studying, analyzing and understanding requirements of problem very carefully some metrics was determined and accordingly dashboard was created. A presentation showing the insights was created.
 
-# 1st Insight
-![Screenshot 2024-04-27 231443](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/c928b4c9-7266-4def-a520-3951c4416991)
+
+ # 1 ![Screenshot 2024-04-27 231443](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/c928b4c9-7266-4def-a520-3951c4416991)
+
