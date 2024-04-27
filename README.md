@@ -19,3 +19,5 @@ This interactive dashboard provides a comprehensive analysis of the IPL 2024 sea
 
 ## Tasks
 ![Screenshot 2024-04-27 231617](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/4fdb4170-91c6-4e9b-9d12-fdabdc566ad6)
+
+# 1st Insight
