@@ -23,9 +23,58 @@ This interactive dashboard provides a comprehensive analysis of the IPL 2024 sea
 So after studying, analyzing and understanding requirements of problem very carefully some metrics was determined and accordingly dashboard was created. A presentation showing the insights was created which is aatached below.
 
 
-## Final Dashboard
+# Final Dashboard
+
+## Landing Page
+
+![Screenshot 2024-04-27 233001](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/c879d715-8efa-4f01-8d3e-084261874c77)
+
+## Batting Analysis
+
 ![Screenshot 2024-04-27 165729](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/cff20b26-6ace-4012-9734-d5cac8993404)
 
+## Bowling Analysis
+
 ![Screenshot 2024-04-27 165800](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/bd4270f8-e469-4ef0-8245-8774789e54c2)
+
+## Role Analysis
+
+![Screenshot 2024-04-27 233039](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/efb20cc7-0990-4ef2-a10c-2772aaf8188a)
+
+## Team Analysis
+
+![Screenshot 2024-04-27 165821](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/810a7ff5-0678-493f-a6bb-aa60336d1d11)
+
+## Orange and Purple Cap Contenders and 3 All Rounders
+
+![Screenshot 2024-04-27 165905](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/2bfceb22-984c-4cec-86cc-9630c95eecb1)
+
+## Top 4 Qualifying teams with winner and runner-up
+
+![Screenshot 2024-04-27 211849](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/eef885a2-166f-4fed-acd3-101e154f3ed0)
+
+## Dream 11
+
+![Screenshot 2024-04-27 211929](https://github.com/TanmayTheAnalyst/IPL-2024-Analysis-Dashboard/assets/153390240/71b40761-2782-497b-b0b1-61faa2cfa951)
+
+## Conclusion and Key Takeaways
+
+- Comprehensive Analysis - The dashboard provides a holistic view of past 3 seasons, empowering fans and analysts to derive meaningful insights.
+- Actionable Insights - The interactive visualizations and customization options enable users to uncover trends and identify areas of improvement for teams and players.
+- Continuous Evolution - The dashboard will be regularly updated to incorporate the latest data and provide an evolving view of the tournament's progress.
+
+## Learnings
+
+- Understood various Key metrics used in cricket industing such as Batting Average, Strike rate, Bowling Average, Bowling Strike Rate, Economy,dot ball%, boundary %,etc.
+- Learnt various visualization techniques in order to make dashboard appealing.
+  
+
+
+
+
+
+
+
+
 
 
